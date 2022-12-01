@@ -1,0 +1,15 @@
+C:\C#\Excercises-1\bin\Debug\net6.0\Excercises-1.exe
+C:\C#\Excercises-1\bin\Debug\net6.0\Excercises-1.deps.json
+C:\C#\Excercises-1\bin\Debug\net6.0\Excercises-1.runtimeconfig.json
+C:\C#\Excercises-1\bin\Debug\net6.0\Excercises-1.dll
+C:\C#\Excercises-1\bin\Debug\net6.0\Excercises-1.pdb
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.csproj.AssemblyReference.cache
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.AssemblyInfoInputs.cache
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.AssemblyInfo.cs
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.csproj.CoreCompileInputs.cache
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.dll
+C:\C#\Excercises-1\obj\Debug\net6.0\refint\Excercises-1.dll
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.pdb
+C:\C#\Excercises-1\obj\Debug\net6.0\Excercises-1.genruntimeconfig.cache
+C:\C#\Excercises-1\obj\Debug\net6.0\ref\Excercises-1.dll
